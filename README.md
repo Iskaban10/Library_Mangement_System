@@ -1,4 +1,4 @@
-This is a basic Library Management System for an educational institution written in C++. 
+This is a basic Library Management System for an educational institution written in C++.<br/>
 It asks users to input their details and saves them in the form of a text file in a Database folder as well as displays the entered details.
 
 A demo example of the display output is as follows.... <br/> 
